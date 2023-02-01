@@ -16,3 +16,6 @@ implementation 'pl.droidsonroids.gif:android-gif-drawable:1.2.25' -> For support
 ## Images
 
 #### **Image of welcome page**
+
+<img src="" style="width: 50%;"/>
+
