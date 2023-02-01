@@ -17,5 +17,6 @@ implementation 'pl.droidsonroids.gif:android-gif-drawable:1.2.25' -> For support
 
 #### **Image of welcome page**
 
-<img src="" style="width: 50%;"/>
+<img src="![Screenshot_20230201_230235_TicTacToetry](https://user-images.githubusercontent.com/88131508/216126517-7c4e20d1-1222-4a20-9d09-db8e396de0fc.jpg)
+" style="width: 50%;"/>
 
