@@ -1,21 +1,18 @@
-Description
-A simple mobile application game in which two players take turns in drawing either an ` O' or an ` X' in one square of a grid consisting of nine squares. The winner is the first player to get three of the same symbols in a row.
+## Description
+A simple mobile application game in which two players take turns in drawing either an 'O' or an 'X' in one square of a grid consisting of nine squares. The winner is the first player to get three of the same symbols in a row.
 
 Built with
 
 Kotlin
 
-##IDE Used
+## IDE Used
 
 Android Studio
 
-Extra Dependencies to be added
+## Extra Dependencies to be added
 
 implementation 'pl.droidsonroids.gif:android-gif-drawable:1.2.25' -> For supporting gifs
 
-##Images
+## Images
 
-####**Image of welcome page**
-
-![Screenshot_20230201_230248_TicTacToetry](https://user-images.githubusercontent.com/88131508/216124620-5344bd01-bb96-41ea-8fc3-92362c5fd338.jpg)
-
+#### **Image of welcome page**
