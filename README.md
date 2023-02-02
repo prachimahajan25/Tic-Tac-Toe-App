@@ -25,6 +25,10 @@ implementation 'pl.droidsonroids.gif:android-gif-drawable:1.2.25' -> For support
 
 #### **Winning Pop up**
 
+https://user-images.githubusercontent.com/88131508/216266415-83bbc55a-8a34-43a8-882f-40e5c4c54afd.mp4
+
+
+
 
 
 
