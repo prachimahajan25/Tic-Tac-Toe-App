@@ -19,7 +19,7 @@ implementation 'pl.droidsonroids.gif:android-gif-drawable:1.2.25' -> For support
 
 ![Screenshot_20230201_230235_TicTacToetry (5)](https://user-images.githubusercontent.com/88131508/216263913-7852aed2-d4d1-44b5-9eea-d9a85964f3dc.png)
 
-### **Image of Tic Tac Toe Game**
+#### **Image of Tic Tac Toe Game**
 
 ![Screenshot_20230201_230248_TicTacToetry](https://user-images.githubusercontent.com/88131508/216264969-f1b7a58d-c5b3-49d6-96ea-c44102dcb091.png)
 
